@@ -72,9 +72,17 @@ Create a nice interactive map using the skills you leared in lesson 5: interacti
 
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choices. Check out [this blog post for further hints on creating good maps](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
   
-  
-  
-  
+
+## Exercise 5 grade and feedback: 17.5 / 20.0 points
+### Grader
+- jeeemil
+### Problem scores
+- Problem 1: 7.5 / 8.0 
+- Problem 2: 10.0 / 10.0 
+- Problem 3: 0.0 / 2.0
+### Comments 
+
+Great job! Anothe layer would've been nice for the static map. The interactive map looks relly cool! It's well worth sharing! :tiger:
   
   
   
